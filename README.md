@@ -1,2 +1,2 @@
-# expence-tracker
+# expense-tracker
 Sistema de monitoramento de despesas
